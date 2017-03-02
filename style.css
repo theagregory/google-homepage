@@ -1,0 +1,56 @@
+* {
+  font-family:Arial;
+}
+
+.navbar {
+  height:50px;
+  width:100%;
+}
+
+# header {
+  text-align:right;
+}
+
+li {
+  float:right;
+  list-style:none;
+  padding: 10px;
+}
+
+
+a {
+    text-decoration:none;
+    color: grey;
+}
+
+#footer {
+
+  bottom:0;
+  background-color:whitesmoke;
+  position:absolute;
+  margin-bottom:0;
+  padding:0;
+  overflow:hidden;
+
+}
+
+img {
+  display:block;
+  margin:auto;
+  padding-top: 150px;
+  padding-botton:50px;
+
+}
+
+body {
+  margin: 0 auto;
+
+
+
+}
+
+form {
+  width:300px;
+  margin: 0 auto;
+
+}
